@@ -3,7 +3,7 @@
 # Extension Checker
 
 ## Description
-The Extension Checker is a Python-based tool designed specifically to identify and analyze Cryptocurrency wallets operating as browser extensions, commonly known as Decentralized Application (DApp) wallets. This tool aids in scanning various browsers like Google Chrome, Microsoft Edge, Mozilla Firefox, and Brave to find extensions that might be DApp wallets. It's particularly useful for digital forensics and cybersecurity purposes to track and audit such wallets across different browsers and user accounts.
+The Extension Checker is a Python-based tool designed specifically to identify and analyze Cryptocurrency wallets operating as browser extensions, commonly known as Decentralized Application (DApp) wallets. This tool aids in scanning various browsers like Google Chrome, Microsoft Edge, Mozilla Firefox, and Brave to find extensions that might be DApp wallets. It's particularly useful for digital forensics purposes to track and audit such wallets across different browsers and user accounts.
 
 ## Installation
 
