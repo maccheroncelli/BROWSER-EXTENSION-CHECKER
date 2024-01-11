@@ -22,7 +22,7 @@ The tool comes with an optional SQLite database file `EXTENSIONS.db`, which cont
 2. Navigate to the folder containing `EXTENSION-CHECKER.py`.
 3. Install required Python packages:
    ```sh
-   pip install PyQt5 psutil
+   pip install PyQt5 psutil requests
    ```
 
 ## Usage
