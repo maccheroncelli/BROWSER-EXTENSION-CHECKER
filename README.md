@@ -61,4 +61,8 @@ Contributions to the Extension Checker are welcome. Here are ways you can contri
 
 For major changes, please open an issue first to discuss what you would like to change.
 
+## Screenshot
+![WhatsApp Image 2024-01-10 at 23 45 23_3dcc8627](https://github.com/maccheroncelli/EXTENSION-CHECKER/assets/154501937/45ee3436-3eee-4633-b64d-9898c542d4fa)
+
+
 ---
